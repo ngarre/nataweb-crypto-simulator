@@ -89,7 +89,7 @@ The application uses **MariaDB**, managed with **MySQL** and visually administer
 1. Clonar el repositorio | Clone the repository:
 
    ```bash
-   git clone https://github.com/usuario/nataweb.git
+   git clone https://github.com/ngarre/nataweb-crypto-simulator.git
    ```
 
 2. Importar el proyecto en **IntelliJ IDEA**.
