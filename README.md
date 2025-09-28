@@ -84,39 +84,6 @@ The application uses **MariaDB**, managed with **MySQL** and visually administer
 
 ---
 
-## 📦 Instalación y despliegue | Installation & Deployment
-
-1. Clonar el repositorio | Clone the repository:
-
-   ```bash
-   git clone https://github.com/ngarre/nataweb-crypto-simulator.git
-   ```
-
-2. Importar el proyecto en **IntelliJ IDEA**.
-   Import the project into **IntelliJ IDEA**.
-
-3. Configurar la base de datos en **MariaDB/MySQL** utilizando el script de inicialización incluido.
-   Configure the database in **MariaDB/MySQL** using the included initialization script.
-
-4. Configurar las credenciales de conexión en el archivo de propiedades correspondiente.
-   Set up connection credentials in the appropriate properties file.
-
-5. Compilar y empaquetar con Maven | Build and package with Maven:
-
-   ```bash
-   mvn clean install
-   ```
-
-6. Desplegar el archivo `.war` en **Apache Tomcat 11.0.4**.
-   Deploy the generated `.war` file to **Apache Tomcat 11.0.4**.
-
-7. Acceder a la aplicación | Access the app:
-
-   ```
-   http://localhost:8080/nataweb
-   ```
-
----
 
 ## 📚 Funcionalidades futuras | Future Features
 
